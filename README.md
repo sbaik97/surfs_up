@@ -34,19 +34,22 @@ Here is the goals of the weather data analysis:
 
  - Retrieve the last 12 months of precipitation data from SQLite database and plot the results
  
-  
-![Precipitation_last_year.PNG](resources/Precipitation_lastyear.PNG)
+  ![Precipitation_last_year.PNG](resources/Precipitation_lastyear.PNG)
 
   
  - The last 12 months of temperature observation data for this station ('USC00519281') and plot the results as a histogram
  
-
-![temperature_observation_data.PNG](resources/temperature_observation_data.PNG)
+  ![temperature_observation_data.PNG](resources/temperature_observation_data.PNG)
 
 ### The details can be found at the following files
 
-- Surf_up_analysis jupyter notebooks [Climate_analysis.ipynb](climate_analysis.ipynb)
-- Phython code to display in webpage with Flask [APP.PY](app.py)
+- Surf_up_analysis jupyter notebooks
+
+  [Climate_analysis.ipynb](climate_analysis.ipynb)
+  
+- Phython code to display in webpage with Flask
+  
+  [APP.PY](app.py)
 
 
 # Challenge
