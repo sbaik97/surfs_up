@@ -31,9 +31,17 @@ Here is the goals of the weather data analysis:
 
 # Challenge
 
-Seasonal weather analysis for Oahu island based on a comparison of precipitation and temperature between June and December from 2010 to 2017 across all observation stations.
+Temperature analysis of Oahu island for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+
 
 ## Project Process:
+
+1. Using Python, Pandas functions and methods, and SQLAlchemy, we will filter the date column of the  Measurements table in the  hawaii.sqlite database to retrieve all the temperatures for the month of June. Then, convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+
+2. filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December.
+
+
+### Results
 
 - **Determine key statistical data about the month of June.**
 
@@ -43,10 +51,10 @@ Seasonal weather analysis for Oahu island based on a comparison of precipitation
 
 ![December_temperature_statstistics](/resources/Dec_Temps.PNG)
 
-- **Compare your findings between the month of July and December.**
 
-*Based on a comparison of precipitation and temperature between June and December from 2010 to 2017 across all observation stations, it’s possible to notice the following statistical information:*
+### Summary and conclustions
 
+*Based on a comparison of precipitation and temperature between June and December from 2010 to 2017 , it’s possible to notice the following statistical information:*
 
  1. Over 7 years, there are 1574 precipitations occurred and 1700 temperatures  observed in June, higher than 1405 precipitations and 1517 temperatures  observed in December. The different (1700-1517 = 183) between two observations counts that indicate the data of Dec, 2017 not included in database.
 
@@ -56,8 +64,7 @@ Seasonal weather analysis for Oahu island based on a comparison of precipitation
 
  4. Comparing of temperatures, it apparently shows that June’s temperature indicators are higher than December.
 
-- **Make variable recommendations for further analysis.**
-
+- **Recommendations for further analysis.**
 
  1. The lack of data in December, 2017  may cause less reliable of data. The database should generate more recently winter data to compare summer and winter precipitation. 
 
