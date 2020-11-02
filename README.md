@@ -66,8 +66,8 @@ Temperature analysis of Oahu island for the months of June and December in Oahu,
 
 - **Recommendations for further analysis.**
 
- 1. The lack of data in December, 2017  may cause less reliable of data. The database should generate more recently winter data to compare summer and winter precipitation. 
+ 1. The lack of data in December, 2017  may cause less reliable of data. We also need to analysis the year trend to see how the wether changes yearly.
 
- 2. In addition of statistical summery, various features and plots may help us better analyze the seasonal weather. For example, line plots would be able to  provide quick and easy way to show time-varying. Histogram plots would tell us frequency of precipitation as well as temperature for both December and Jane.
+ 2. In addition of statistical summery, various features and plots may help us better analyze the seasonal weather.
 
  3. For seasonal analysis, we need filter more detail precipitation and temperatures for Spring and Autumn. 
