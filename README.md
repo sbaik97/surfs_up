@@ -64,7 +64,7 @@ Temperature analysis of Oahu island for the months of June and December in Oahu,
 
  4. Comparing of temperatures, it apparently shows that June’s temperature indicators are higher than December.
 
-- **Recommendations for further analysis.**
+### Recommendations for further analysis.**
 
  1. The lack of data in December, 2017  may cause less reliable of data. We also need to analysis the year trend to see how the wether changes yearly.
 
