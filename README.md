@@ -31,18 +31,15 @@ Here is the goals of the weather data analysis:
 ### Major Outputs:
 
 - Clean and data comparison between wiki and Kaggle data by scatter plots
-  - running_time
-  
-![running_time_comparision](Resources/running_time_comparision.PNG)
 
   - budget
   
-![budget_comparision](Resources/budget_comparision.PNG)
+![budget_comparision.PNG](Resources/budget_comparision.PNG)
 
   
 - Merge, drop, and rename the movie file
 
-![merge_drop_rename](Resources/merge_drop_rename.PNG)
+![temperature_observation_data.PNG](resources/temperature_observation_data.PNG)
 
 ### The details can be found at the following files
 
