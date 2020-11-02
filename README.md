@@ -32,12 +32,12 @@ Here is the goals of the weather data analysis:
 
 - Clean and data comparison between wiki and Kaggle data by scatter plots
 
-  - budget
+  - Retrieve the last 12 months of precipitation data from SQLite database and plot the results
   
-![budget_comparision.PNG](Resources/budget_comparision.PNG)
+![Precipitation_last_year.PNG](resources/Precipitation_lastyear.PNG)
 
   
-- Merge, drop, and rename the movie file
+  - The last 12 months of temperature observation data for this station ('USC00519281') and plot the results as a histogram
 
 ![temperature_observation_data.PNG](resources/temperature_observation_data.PNG)
 
