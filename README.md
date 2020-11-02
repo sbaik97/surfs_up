@@ -28,6 +28,27 @@ Here is the goals of the weather data analysis:
 * SQLite database and VS Code
 * Data Source: hawaii.sqlite
 
+### Major Outputs:
+
+- Clean and data comparison between wiki and Kaggle data by scatter plots
+  - running_time
+  
+![running_time_comparision](Resources/running_time_comparision.PNG)
+
+  - budget
+  
+![budget_comparision](Resources/budget_comparision.PNG)
+
+  
+- Merge, drop, and rename the movie file
+
+![merge_drop_rename](Resources/merge_drop_rename.PNG)
+
+### The details can be found at the following files
+
+- ETL jupyter notebooks [movies_ETL.ipynb](climate_analysis.ipynb)
+- ETL display in webpage with Flask [APP.PY](app.py)
+
 
 # Challenge
 
@@ -50,6 +71,11 @@ Temperature analysis of Oahu island for the months of June and December in Oahu,
 - **Determine key statistical data about the month of December.**
 
 ![December_temperature_statstistics](/resources/Dec_Temps.PNG)
+
+- ** The details of the Summary Statistics of Monthcan be found at the following files**
+
+- Surf_up_challenge jupyter notebooks [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
+
 
 
 ### Summary and conclustions
