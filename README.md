@@ -33,11 +33,13 @@ Here is the goals of the weather data analysis:
 - Using the Python SQL toolkits and Object Relational Mapper, anaysis the precipitation data and temperature observation from the SQLite(hawaii.sqlite) database.
 
  - Retrieve the last 12 months of precipitation data from SQLite database and plot the results
+ 
   
 ![Precipitation_last_year.PNG](resources/Precipitation_lastyear.PNG)
 
   
  - The last 12 months of temperature observation data for this station ('USC00519281') and plot the results as a histogram
+ 
 
 ![temperature_observation_data.PNG](resources/temperature_observation_data.PNG)
 
