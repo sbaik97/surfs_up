@@ -46,8 +46,8 @@ Here is the goals of the weather data analysis:
 
 ### The details can be found at the following files
 
-- ETL jupyter notebooks [movies_ETL.ipynb](climate_analysis.ipynb)
-- ETL display in webpage with Flask [APP.PY](app.py)
+- Surf_up_analysis jupyter notebooks [Climate_analysis.ipynb](climate_analysis.ipynb)
+- Phython code to display in webpage with Flask [APP.PY](app.py)
 
 
 # Challenge
@@ -72,7 +72,7 @@ Temperature analysis of Oahu island for the months of June and December in Oahu,
 
 ![December_temperature_statstistics](/resources/Dec_Temps.PNG)
 
-- ** The details of the Summary Statistics of Monthcan be found at the following files**
+- The details of the Summary Statistics of Monthcan be found at the following files*
 
 - Surf_up_challenge jupyter notebooks [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
 
