@@ -1,11 +1,11 @@
 # surfs_up
 Exploring weather data using Pandas, SQLite, SQLAlchemy, and Flask
 
-## Backgound
+## Project Background and Goals
 
 Analysis the weather patterns  of a specific location on Oahu to build a shop. We'll plot the results of our precipitation analysis using Matplotlib and provide the statistical analysis—such as the mean, standard deviation, minimum, and maximum for specific date and location. Each segment of your analysis: Precipitation, Stations, MonthlyTemperature, and Statistics will be done using using SQLalchemy to query and create engine of connecting SQLite and python pandas. We will create our routes so that the board of directors can easily access our analysis with a Flask application.
 
-
+Here is the goals of the weather data analysis:
 
 - Performing data analysis and data exploration on a weather dataset,
 
@@ -15,6 +15,18 @@ Analysis the weather patterns  of a specific location on Oahu to build a shop. W
 
 - Designing a Flask application to showcase a dynamic data analysis.
 
+## The process of project
+ 
+* Import Dependencies: matplotlib, datetime, sqlalchemy, Flask, etc.
+* Connect to our SQLite database by creat_engine and session (link) from Python to the DB
+* Exploratory climate analysis using query and filter, group_by, and order_by fuction.
+* Plotting with Matplotlib to plot the data
+* Create a summary of a few statistics that shows the precipitation per day and month.
+
+## Software/Tools/Libraries
+* Python 3.7.6, Jupyter Notebook 6.1.4 with PanDas, NumPy, Matplotlib, SQLAlchemy, and Flask.
+* SQLite database and VS Code
+* Data Source: hawaii.sqlite
 
 
 # Challenge
@@ -24,9 +36,9 @@ Seasonal weather analysis for Oahu island based on a comparison of precipitation
 ## Project Process:
 
 - **Determine key statistical data about the month of June.**
-![Jane_stats_summary.png](/Analysis/Jane_stats_summary.png)
+![Jane_December_temperature_statstistics](/resources/June_Temps.PNG)
 - **Determine key statistical data about the month of December.**
-![Dec_stats_summary.png](/Analysis/Dec_stats_summary.png)
+![December_temperature_statstistics](/resources/Dec_Temps.PNG)
 - **Compare your findings between the month of July and December.**
 
 *Based on a comparison of precipitation and temperature between June and December from 2010 to 2017 across all observation stations, it’s possible to notice the following statistical information:*
