@@ -36,9 +36,13 @@ Seasonal weather analysis for Oahu island based on a comparison of precipitation
 ## Project Process:
 
 - **Determine key statistical data about the month of June.**
+
 ![Jane_December_temperature_statstistics](/resources/June_Temps.PNG)
+
 - **Determine key statistical data about the month of December.**
+
 ![December_temperature_statstistics](/resources/Dec_Temps.PNG)
+
 - **Compare your findings between the month of July and December.**
 
 *Based on a comparison of precipitation and temperature between June and December from 2010 to 2017 across all observation stations, it’s possible to notice the following statistical information:*
