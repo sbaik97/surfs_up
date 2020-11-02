@@ -30,7 +30,7 @@ Here is the goals of the weather data analysis:
 
 ### Major Outputs:
 
-- Using the Python SQL toolkits and Object Relational Mapper, anaysis the last 12 months of precipitation data and the last 12 months of temperature observation from the SQLite(hawaii.sqlite) database.
+- Using the Python SQL toolkits and Object Relational Mapper, anaysis the precipitation data and temperature observation from the SQLite(hawaii.sqlite) database.
 
  - Retrieve the last 12 months of precipitation data from SQLite database and plot the results
   
@@ -70,8 +70,8 @@ Temperature analysis of Oahu island for the months of June and December in Oahu,
 ![December_temperature_statstistics](/resources/Dec_Temps.PNG)
 
 - The details of the Summary Statistics of Monthcan be found at the following files*
-
-- Surf_up_challenge jupyter notebooks [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
+  
+  [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
 
 
 
