@@ -1,4 +1,4 @@
-# surfs_up
+# Weather Analysis
 Exploring weather data using Pandas, SQLite, SQLAlchemy, and Flask
 
 ## Project Background and Goals
